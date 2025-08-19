@@ -19,16 +19,16 @@ This assignment should prove that a student is able to:
 
 ## Standard requirements
 
-- [ ] Fork the project to your github account
-- [ ] Clone the project to your computer
-- [ ] Open the project in VSCode with `code <cloned_repo_folder_name>`
-- [ ] Initialize playwright and install project packages
-  - [ ] Use `npm i` to install packages
+- [ done] Fork the project to your github account
+- [done ] Clone the project to your computer
+- [ done] Open the project in VSCode with `code <cloned_repo_folder_name>`
+- [ done] Initialize playwright and install project packages
+  - [ done] Use `npm i` to install packages
         - it is okay to see warnings after this steps - as long as node_modules folder is created you are alright!
-  - [ ] Use `npm run browser-install` to install the browser environment for testing 
-- [ ] All the tasks of the "Specific requirements" section MUST be solved
+  - [ done] Use `npm run browser-install` to install the browser environment for testing 
+- [doneru ] All the tasks of the "Specific requirements" section MUST be solved
 - [ ] All the tests MUST pass. Fix the errors in case any tests don't pass BEFORE you submit (acceptance criteria)
-  - [ ] Use `npm run test` to run all tests in the terminal
+  - [ done] Use `npm run test` to run all tests in the terminal
   - [ ] (Optional) Use `npm run test-ui` to run all the tests with GUI
   - [ ] (Optional) Use `npm run show-report` to see the latest report in the browser
 - [ ] VSCode IDE MUST have 0 code problems listed (spelling problems are fine)
@@ -38,26 +38,26 @@ This assignment should prove that a student is able to:
 
 ## Specific requirements
 
-- [ ] Create an html file with the name of "index" in the root of the project
-- [ ] Add HTML Boilerplate to the document
-  - [ ] confirm the head tag has a meta tag that defines the charset
+- [ done] Create an html file with the name of "index" in the root of the project
+- [ done] Add HTML Boilerplate to the document
+  - [ done] confirm the head tag has a meta tag that defines the charset
         
   ```html 
   <meta charset="UTF-8">
   ```
-  - [ ] confirm the head tag has a responsive meta tag set
+  - [done ] confirm the head tag has a responsive meta tag set
   ```html 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   ```
-- [ ] Set the document title in the head section to be "Sample project"
+- [done ] Set the document title in the head section to be "Sample project"
 ```html
 <title>Sample project</title>
 ```
-- [ ] Set the page heading to be "Sample project"
+- [ done] Set the page heading to be "Sample project"
 ```html 
 <h1> Sample project </h1>
 ```
-- [ ] Add a paragraph of text (20 words at least). You can use random text for the paragraph content.
+- [ done] Add a paragraph of text (20 words at least). You can use random text for the paragraph content.
 ```html 
 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint vitae, libero quae quasi nemo dignissimos consectetur cumque. Ipsum laborum libero iure.</p>
 ```
